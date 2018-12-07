@@ -15,7 +15,7 @@ In development I used: Html, Css, JavaScript, Bootstrap and Html Canvas.
 
 Project Link: http://vasilache-andrei.herokuapp.com/snake
 
-Portofolio: http://vasilache-andrei.herokuapp.com/
+Portfolio: http://vasilache-andrei.herokuapp.com/
 
 <img src="http://vasilache-andrei.herokuapp.com/portofolioGifs/snake.gif">
 
